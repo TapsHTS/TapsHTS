@@ -10,8 +10,10 @@
 ## 🌍 Languages:
   <p>
     <img alt="js" src="https://img.shields.io/badge/-Javascript-FFEE00?style=flat-square&logo=javascript&logoColor=black" />
+    <img alt="mysql" src="https://img.shields.io/badge/-MYSQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
     <img alt="nodejs" src="https://img.shields.io/badge/-NodeJS-43853D?style=flat-square&logo=Node.js&logoColor=white" />
     <img alt="html" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
+
 
   </p>
 
