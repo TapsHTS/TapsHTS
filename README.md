@@ -26,6 +26,7 @@
 ## 🥽 Projects:
 - [<img src="https://cdn.discordapp.com/avatars/660891282465357834/c0d167e2f431c03182ec32736d43fb33.png?size=512" width="24"/> Neotux'Bot](https://neotuxbot.tk)
 - [<img src="https://cdn.discordapp.com/attachments/725356246919675954/798587450049298472/insta.gg.bot.png" width="24"/> insta.gg](https://github.com/TapsHTS/insta.gg)
+- [<img src="https://user-images.githubusercontent.com/61658427/115971218-88202080-a547-11eb-9a12-a6b1fcee60c3.png" width="24"/> minepm](https://github.com/TapsHTS/minepm)
 
 
 ## 📍 Statistics
